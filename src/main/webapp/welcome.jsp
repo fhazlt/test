@@ -17,7 +17,7 @@
 		</div>
 	</div>	
 	<div class="container">
-		<div class="text-center">9
+		<div class="text-center">
 			<h3>
 				<%=tagline%>
 			</h3>
